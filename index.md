@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tests for Interactive Graphs
-subtitle: OMG, Graphs Are Interactive! Worked
+subtitle: OMG, Graphs Are Interactive! worked again
 ---
 
 <div class="main-content">
@@ -9,6 +9,12 @@ subtitle: OMG, Graphs Are Interactive! Worked
     <br>
     <iframe 
     src="{{ '/assets/data/degree_distribution.html' | relative_url }}"
+    style="width: 100%; height: 600px; border: none;">
+    </iframe>
+    <br>
+    <p> Next one <\p>
+    <iframe 
+    src="{{ '/assets/data/common_neighbors_distribution.html' | relative_url }}"
     style="width: 100%; height: 600px; border: none;">
     </iframe>
 
