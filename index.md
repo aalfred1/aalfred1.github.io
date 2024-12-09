@@ -12,9 +12,9 @@ subtitle: OMG, Graphs Are Interactive! worked again
     style="width: 100%; height: 600px; border: none;">
     </iframe>
     <br>
-    <p> Next one <\p>
+    <p> Next one </p>
     <iframe 
     src="{{ '/assets/data/common_neighbors_distribution.html' | relative_url }}"
     style="width: 100%; height: 600px; border: none;">
-    </iframe>
+    </iframe> 
 
