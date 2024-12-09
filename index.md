@@ -1,7 +1,7 @@
 ---
 layout: home
-title: On teste pas nous 
-subtitle: Je peux vriller sur celui la 
+title: Tests for interactive graphs
+subtitle: OMG graphes are interactives
 ---
 
 <div class="main-content">
