@@ -1,5 +1,7 @@
 ---
 layout: home
-title: changement
+title: On teste pas nous 
 subtitle: Je peux vriller sur celui la 
 ---
+
+<div class="main-content">
