@@ -18,8 +18,12 @@ subtitle: OMG, Graphs Are Interactive! worked again
     style="width: 100%; height: 600px; border: none;">
     </iframe> 
     <p> again </p>
-    <iframe 
+    <!-- <iframe 
     src="{{ '/assets/data/node_similarity_distributions_dark_resized.html' | relative_url }}"
     style="width: 100%; height: 600px; border: none;">
-    </iframe> 
+    </iframe>  -->
+    <div style="text-align:center;">
+    <iframe src="node_similarity_distributions_dark_resized.html" width="800" height="600" style="border: none">
+    </iframe>
+    </div>  
 
