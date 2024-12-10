@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tests for Interactive Graphs
-subtitle: Test 1
+subtitle: Test 2
 ---
 
 <div class="main-content">
@@ -23,7 +23,6 @@ subtitle: Test 1
     style="width: 100%; height: 600px; border: none;">
     </iframe>  -->
     <div style="text-align:center;">
-    <iframe src="node_similarity_distributions_dark_resized.html" width="800" height="600" style="border: none">
-    </iframe>
+        <iframe src="node_similarity_distributions_dark_resized.html" width="800" height="600" style="border: none"></iframe>
     </div>  
 
