@@ -14,7 +14,7 @@ subtitle: OMG, Graphs Are Interactive! worked again
     <br>
     <p> Next one </p>
     <iframe 
-    src="{{ '/assets/data/common_neighbors_distribution.html' | relative_url }}"
+    src="{{ '/assets/data/common_neighbors_distribution_dark.html' | relative_url }}"
     style="width: 100%; height: 600px; border: none;">
     </iframe> 
 
