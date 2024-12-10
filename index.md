@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tests for Interactive Graphs
-subtitle: Test qui test vraiment
+subtitle: Test qui resize ses morts
 ---
 
 <div class="main-content">
@@ -23,6 +23,6 @@ subtitle: Test qui test vraiment
     style="width: 100%; height: 600px; border: none;">
     </iframe>  -->
     <div style="text-align:center;">
-        <iframe src="/assets/data/node_similarity_distributions_dark_resized.html" width="800" height="600" style="border: none"></iframe>
+        <iframe src="/assets/data/node_similarity_distributions_dark_resized.html" width="400" height="300" style="border: none"></iframe>
     </div>  
 
