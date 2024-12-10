@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Tests for Interactive Graphs
-subtitle: OMG, Graphs Are Interactive! worked again
+subtitle: Test 1
 ---
 
 <div class="main-content">
