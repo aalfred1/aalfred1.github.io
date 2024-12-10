@@ -8,7 +8,7 @@ subtitle: OMG, Graphs Are Interactive! worked again
     <p>Let's try to make this graph interactive</p>
     <br>
     <iframe 
-    src="{{ '/assets/data/degree_distribution.html' | relative_url }}"
+    src="{{ '/assets/data/degree_distribution_dark.html' | relative_url }}"
     style="width: 100%; height: 600px; border: none;">
     </iframe>
     <br>
